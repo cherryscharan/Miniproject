@@ -36,7 +36,7 @@ Balanced or augmented data for improved model accuracy
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![alt text](image.png)
+<img width="1223" height="699" alt="image" src="https://github.com/user-attachments/assets/fb9b79c3-af82-4925-8108-9388950859e5" />
 
 
 ## Output
@@ -44,23 +44,23 @@ Balanced or augmented data for improved model accuracy
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 -
 
-![alt text](<Screenshot 2025-12-24 205905.png>)
+<img width="767" height="896" alt="image" src="https://github.com/user-attachments/assets/d5e4fb80-2dd9-4279-aa79-48e17ac7eaec" />
 
 #### Output2 - 
 
-![alt text](<Screenshot 2025-12-24 210109.png>)
+<img width="922" height="909" alt="image" src="https://github.com/user-attachments/assets/a8e2c1b8-1b6a-49e6-aa1c-31bea4a2278e" />
 
 #### Output3 - 
 
-![alt text](<Screenshot 2025-12-24 205956.png>)
+<img width="797" height="911" alt="image" src="https://github.com/user-attachments/assets/302dafe9-023b-499c-8a70-43c139f1d1f4" />
 
 #### Output4 - 
 
-![alt text](<Screenshot 2025-12-24 205929.png>)
+<img width="870" height="899" alt="image" src="https://github.com/user-attachments/assets/4ecdd013-3492-4c59-adde-15f745af596a" />
 
 #### Output5 - 
 
-![alt text](<Screenshot 2025-12-24 210138.png>)
+<img width="716" height="908" alt="image" src="https://github.com/user-attachments/assets/f64a2a28-a3ad-4156-8cb7-e9aa1c528f27" />
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
